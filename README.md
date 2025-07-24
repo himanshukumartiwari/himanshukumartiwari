@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=himanshucse&label=Profile%20views&color=0e75b6&style=flat" alt="himanshucse" />
 </p>
 
-🚀 A passionate **Full Stack Developer** and **Business Analyst** skilled in building scalable web applications and data-driven solutions.  
+🚀 A focused Full Stack Developer and Business Analyst who builds web apps and uses data to improve results.  
 💡 Tech enthusiast with experience in **MERN Stack**, **Cloud Hosting**, **UI/UX Design**, and **Data Visualization**.
 
 ---
@@ -73,8 +73,8 @@
 
 ---
 
-## ✍️ Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+## ✨ Inspiration for the Day
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" /> </p>
 
 ---
 
