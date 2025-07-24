@@ -1,87 +1,89 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A Passionate Full Stack Web Developer & Business Analyst from India</h3>
+<h3 align="center"> **Full Stack Web Developer** </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshucse&label=Profile%20views&color=0e75b6&style=flat" alt="himanshucse" />
 </p>
 
----
-
-🌱 I’m currently working on MERN Stack Projects and exploring UI/UX Design using Figma.  
-👨‍💻 All of my projects are available at: [Portfolio Website](https://your-portfolio-link.com)  
-💬 Ask me about **React, Node.js, MongoDB, Power BI, or Business Analysis**  
-📫 How to reach me: **himanshucse@email.com**  
-📄 Know about my experiences: [Resume](https://your-resume-link.com)  
-⚡ Fun fact: I’m also into robotics & love building tech for fun!
+🚀 A passionate **Full Stack Developer** and **Business Analyst** skilled in building scalable web applications and data-driven solutions.  
+💡 Tech enthusiast with experience in **MERN Stack**, **Cloud Hosting**, **UI/UX Design**, and **Data Visualization**.
 
 ---
 
-## 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hostinger-673AB7?style=flat&logo=hostinger&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-</p>
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshukumartiwari)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/himanshu_tiwariy)  
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/himanshutiwariy)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshukumartiwari59@gmail.com)
 
 ---
 
-## 🔗 Connect with me:
+## 💻 Tech Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/himanshucse" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:himanshucse@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/himanshucse/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/himanshucse" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
-</p>
+### 👨‍💻 Languages:
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+### 🌐 Web Development:
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
-## ☕ Buy Me a Coffee
+### 🛠 Platforms & Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-If you like my work and want to support me:
+### ☁️ Cloud & Hosting:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<p>
-  <a href="https://www.buymeacoffee.com/himanshucse" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-  </a>
-</p>
+### 📊 Data & Office Tools:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=himanshukumartiwari&theme=default&show_icons=true&hide_border=false" width="49%" />  
+<img src="https://streak-stats.demolab.com/?user=himanshukumartiwari&theme=default&hide_border=false" width="49%" />
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumartiwari&layout=compact&theme=default&hide_border=false" width="100%" />
 
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=himanshukumartiwari&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## ✍️ Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+
+## 💰 Support Me
+If you like my work or want to support my journey, you can buy me a coffee:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/himanshukumartiwari)
+
+---
+
+## 👁️ Visitor Count
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshucse&show_icons=true&theme=default" />
+  <img src="https://visitcount.itsvg.in/api?id=himanshukumartiwari&icon=0&color=0" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshucse&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshucse&layout=compact&theme=default" />
-</p>
+<!-- Created with ❤️ using markdown by Himanshu Tiwari -->
