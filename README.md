@@ -20,9 +20,9 @@
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🌐 Web Development:
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,10 +55,16 @@
 ---
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=himanshukumartiwari&theme=default&show_icons=true&hide_border=false" width="49%" />  
-<img src="https://streak-stats.demolab.com/?user=himanshukumartiwari&theme=default&hide_border=false" width="49%" />
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumartiwari&layout=compact&theme=default&hide_border=false" width="100%" />
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=himanshukumartiwari&theme=default&show_icons=true&hide_border=false" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com/?user=himanshukumartiwari&theme=default&hide_border=false" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,10 +84,5 @@ If you like my work or want to support my journey, you can buy me a coffee:
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/himanshukumartiwari)
 
 ---
-
-## 👁️ Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=himanshukumartiwari&icon=0&color=0" />
-</p>
 
 <!-- Created with ❤️ using markdown by Himanshu Tiwari -->
