@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar Tiwari </h1>
 <h2 align="center"> Full Stack Developer (MERN Stack) </h2>
+<h3 align="center"> (MERN Stack) </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshucse&label=Profile%20views&color=0e75b6&style=flat" alt="himanshucse" />
